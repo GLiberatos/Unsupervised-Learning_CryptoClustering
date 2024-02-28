@@ -24,8 +24,10 @@ The core of this challenge revolves around analyzing cryptocurrency market trend
 
 The application of PCA reduced our feature set to three principal components, capturing approximately 88% of the dataset's variance. This substantial reduction in dimensionality underscores the PCA's effectiveness in maintaining the core characteristics of the data while stripping away redundant information. By implementing the K-means algorithm on both the original scaled data and the PCA-transformed data, we observed that the clustering was significantly improved post-PCA. This improvement suggests that PCA's ability to minimize noise and focus on essential patterns greatly benefits the clustering process, leading to a more distinct and meaningful segmentation of the cryptocurrency market data.
 
-    ![Elbows Plot](Assets/elbows.png)
+<div align="center">
 <img src="https://github.com/GLiberatos/Unsupervised-Learning_CryptoClustering/blob/main/Assets/elbows.png" <br>
+</div>
+
 The transition to a reduced feature space through PCA not only clarified the cluster formations but also emphasized the algorithm's efficiency in highlighting relevant market trends, despite the reduced complexity of the dataset.
 
 <div align="center">
