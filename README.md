@@ -31,7 +31,7 @@ The application of PCA reduced our feature set to three principal components, ca
 The transition to a reduced feature space through PCA not only clarified the cluster formations but also emphasized the algorithm's efficiency in highlighting relevant market trends, despite the reduced complexity of the dataset.
 
 <div align="center">
-    <img src="https://github.com/GLiberatos/Unsupervised-Learning_CryptoClustering/tree/main/Assets/scatters.png" width="750">
+    <img src="https://github.com/GLiberatos/Unsupervised-Learning_CryptoClustering/tree/main/Assets/scatters.png"
 </div>
 
 ## How to Utilize This Repository
